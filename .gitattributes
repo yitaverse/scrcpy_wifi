@@ -1,3 +1,2 @@
 *.sh linguist-detectable=true
-*.roff linguist-detectable=false
-*.3 linguist-detectable=false
+*.1 linguist-detectable=false
