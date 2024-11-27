@@ -1,2 +1,3 @@
 *.sh linguist-detectable=true
 *.1 linguist-detectable=false
+*.1 linguist-vendored
